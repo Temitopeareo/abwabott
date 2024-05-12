@@ -30,21 +30,21 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/ABRODEV)[DEPLOY ABRO Dev MD]
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/abwabott)[DEPLOY ABRO Dev MD]
 
 
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/Temitopeareo/ABRODEV)
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/Temitopeareo/abwabott)
 
 <br>
 
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+<p align=""><a href="https://repl.it/github/Temitopeareo/abwabott"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 <br>
 
 
-[![FORK ABRODEV](https://img.shields.io/badge/FORK%20-ABRO%20DEV%20MD-white)](https://github.com/Temitopeareo/ABRODEV/fork)
+[![FORK ABRODEV](https://img.shields.io/badge/FORK%20-ABRO%20DEV%20MD-white)](https://github.com/Temitopeareo/abwabott/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
