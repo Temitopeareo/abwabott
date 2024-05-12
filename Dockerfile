@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/kingibrahimtech/abwabott.git /root/Temitopeareo
+RUN git clone https://github.com/Temitopeareo/abwabott.git /root/Temitopeareo
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
