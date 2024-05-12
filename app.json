@@ -1,5 +1,5 @@
 {
-  "name": "black panther md 4.0.1",
+  "name": "abro tech md 4.0.1",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/kingibrahimtech/Black-panther-md-x/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["PANTHER-MD-X5", "BLACKX5", "PANTHRR MD","PANTHER MD","BLACK","blackpanther"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+      "value": "Abro tech",
       "required": true
     },
 
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐵𝐿𝐴𝐶𝐾 𝑃𝐴𝑁𝑇𝐻𝐸𝑅 𝘔𝘋"
+      "value": "ABRO TECH 𝘔𝘋"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Nairobi"
+      "value": "Africa/Lagos"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666,25739937062"
+      "value": "2348100151048"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -102,7 +102,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝑃𝐴𝑁𝑇𝐻𝐸𝑅",
+      "value": "ABRO",
       "required": false
     },
     "PACK_AUTHER": {
